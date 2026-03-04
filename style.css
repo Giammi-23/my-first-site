@@ -1,1 +1,13 @@
+body {
+  background-color: blanchedalmond;
+}
 
+h1 {
+  color: tomato;
+}
+
+p {
+  color: violet;
+  border: 5px;
+  border-color:powderblue;
+}
